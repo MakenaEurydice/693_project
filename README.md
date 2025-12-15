@@ -8,8 +8,6 @@ Below is an overview of the files in the repository as well as the contents of e
 - cnn_model.ipynb
   - Notebook implementing a convolutional neural network for image classification 
 - TransferLearning_Model.ipynb
-  - Notebook demonstrating transfer learning with a pretrained MobileNetv2 CNN
+  - Notebook implementing transfer learning with a pretrained MobileNetv2 CNN
 - Random_Forest.ipynb
   - Notebook that runs a random forest classification model on the raw flow data.
-- README.md
-  - This file (project overview and instructions).
