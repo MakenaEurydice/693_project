@@ -1,7 +1,6 @@
 # 693_project
 Below is an overview of the files in the repository as well as the contents of each file.
 
-Repository structure
 - silhouette.ipynb
     - Computing silhouette scores for different k
 - heatmaps_generation.ipynb
