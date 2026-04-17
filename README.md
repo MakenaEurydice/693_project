@@ -11,3 +11,6 @@ Below is an overview of the files in the repository as well as the contents of e
   - Notebook implementing transfer learning with a pretrained MobileNetv2 CNN
 - Random_Forest.ipynb
   - Notebook that runs a random forest classification model on the raw flow data.
+- Vision Transformers.ipynb
+  - Notebook that uses the vision transformers for image classification.
+ 
